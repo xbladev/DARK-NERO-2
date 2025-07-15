@@ -4,4 +4,4 @@
 
 ### 1. Get Session Code : [Click Here](https://darknero.genux.me)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/genux-official/DARK-NERO/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lucifer-DEX/DARK-NERO/)
