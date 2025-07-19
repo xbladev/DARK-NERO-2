@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
-    "@genuxofficial/baileys": "github:nstar-y/bail",
+    "@genuxofficial/baileys": "github:nimesh-piyumal/baileys",
     "@hapi/boom": "^10.0.1",
     "adm-zip": "^0.5.16",
     "cheerio": "^1.0.0",
